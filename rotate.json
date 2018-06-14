@@ -1,0 +1,31 @@
+{
+	"file": [{
+		"home_dir": "D:\\Scripts\\log\\test.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test2.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test3.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test4.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test5.txt",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test6.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	},
+	{
+		"home_dir": "D:\\Scripts\\log\\test7.log",
+		"dest_dir": "D:\\Scripts\\rotated_logs"
+	}
+]
+}
