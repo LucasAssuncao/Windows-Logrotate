@@ -1,8 +1,7 @@
 # Script: rotate-windows.ps1
 # Date: 10/05/2018
-# Autor: Lucas Assunção da Silva
+# Autor: Lucas AssunÃ§Ã£o da Silva
 
-#Arquivo e configuracao JSON
 $json = Get-Content 'D:\Scripts\rotate.json' | Out-String 
 $object = ConvertFrom-Json -InputObject $json
 
